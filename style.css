@@ -1,0 +1,32 @@
+.container-gr {
+    display: flex;
+    margin-top: 25px;
+}
+.container-1 {
+    margin-left: 25px;
+    
+    
+}
+
+.btn-gr {
+    margin-top: 20px;
+}
+
+.change {
+    margin-left: 12px;
+}
+
+p {
+    font-weight: bold;
+}
+
+.text-change {
+    font-weight: bold;
+    
+}
+
+button {
+    background-color: rgb(46, 46, 245);
+    color: white;
+    border: none;
+}
